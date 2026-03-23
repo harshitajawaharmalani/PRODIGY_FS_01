@@ -1,4 +1,4 @@
-PRODIGY_WD_01: Secure User Authentication System
+PRODIGY_WD_01: Secure User Authentication System                  
 📌 Project Overview
 This project is part of my Full-Stack Web Development Internship at Prodigy InfoTech. The goal was to build a robust and secure User Authentication system that handles user onboarding, identity verification, and access control for protected application routes.
 
@@ -15,6 +15,10 @@ Security: JSON Web Tokens (JWT), Bcrypt.js (Password Hashing)
 User Registration: New users can create an account with validated credentials.
 
 Secure Login: Identity verification using email and encrypted passwords.
+
+Signup: Implemented signup feature.
+
+logout: Implemented logout feature.
 
 Password Hashing: Implemented Bcrypt.js to salt and hash passwords before storing them in MongoDB (Industry Standard).
 
